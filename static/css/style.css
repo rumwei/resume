@@ -130,7 +130,7 @@ footer {
 }
 
 p {
-    line-height: 25px;
+    line-height: 23px;
 }
 
 progress {
@@ -274,7 +274,6 @@ ul li{
     margin-right: 2px;
     visibility: hidden;
     cursor: pointer;
-    
 }
 
  .stack-list .item-remove {
